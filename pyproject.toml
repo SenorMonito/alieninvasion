@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyalien"
+name = "alieninvasion"
 version = "0.1.0"
 description = "Alien invasion game"
 authors = ["0xdaveyg <david@planet-mono.net>"]
@@ -17,4 +17,4 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.scripts]
-pyalien = "pyalien.cli:cli"
+alieninvasion = "alieninvasion.cli:cli"
